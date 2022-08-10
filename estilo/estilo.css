@@ -1,0 +1,63 @@
+body{
+    background: url('/images/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#content{
+    width: 900px;
+    margin: 0 auto;
+}
+
+#principal{
+    width: 900px;
+}
+
+nav{
+    background-color: #c5c5b2;
+    padding: 18px;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+h2{
+    color: #828272;
+    font-size: 0.9em;
+}
+
+.foto{
+    border: #e8e8d9;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+footer{
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px;
+}
+
+.foto{
+    border: 6px inset;
+    border-color: #4b566a #4b566b;
+    border-radius: 10px;
+}
+
+#fic{
+    font-weight: bold;
+    text-align: center;
+}
